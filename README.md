@@ -1,10 +1,3 @@
-
-### Directory Tree
-
-![GitHub last commit](https://img.shields.io/github/last-commit/gweidart/python-boilerplates?style=plastic&cacheSeconds=30)
-
-```md
- 
 1. Django
 Django Project/
 ├── manage.py
@@ -451,9 +444,3 @@ Flask-RESTPlus Project/
 ├── models/
 │   └── item.py
 └── requirements.txt
-
-```
-## Authors
-
-- [@gweidart](https://www.github.com/gweidart)
-

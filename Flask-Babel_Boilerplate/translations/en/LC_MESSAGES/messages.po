@@ -1,0 +1,5 @@
+msgid "Welcome to Flask-Babel!"
+msgstr "Welcome to Flask-Babel!"
+
+msgid "This is a basic example of Flask-Babel translation."
+msgstr "This is a basic example of Flask-Babel translation."
